@@ -1,23 +1,23 @@
 $(document).ready(function(){
-    $(".ceo-image").click(function(){
-        $(".ceo-desc").toggle(500);
+    $(".ceo-image").hover(function(){
+        $(".ceo-desc").toggle(100);
     });
-    $(".coo-image").click(function(){
-        $(".coo-desc").toggle(500);
+    $(".coo-image").hover(function(){
+        $(".coo-desc").toggle(100);
     });
-    $(".cto-image").click(function(){
-        $(".cto-desc").toggle(500);
+    $(".cto-image").hover(function(){
+        $(".cto-desc").toggle(100);
     });
-    $(".cao-image").click(function(){
-        $(".cao-desc").toggle(500);
+    $(".cao-image").hover(function(){
+        $(".cao-desc").toggle(100);
     });
-    $(".cco-image").click(function(){
-        $(".cco-desc").toggle(500);
+    $(".cco-image").hover(function(){
+        $(".cco-desc").toggle(100);
     });
-    $(".cio-image").click(function(){
-        $(".cio-desc").toggle(500);
+    $(".cio-image").hover(function(){
+        $(".cio-desc").toggle(100);
     });
-    $(".cmo-image").click(function(){
-        $(".cmo-desc").toggle(500);
+    $(".cmo-image").hover(function(){
+        $(".cmo-desc").toggle(100);
     });
 });
