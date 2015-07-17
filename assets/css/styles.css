@@ -132,6 +132,10 @@ body {
     margin-top: 10px;
 }
 
+.service-desc {
+    margin: 20px;
+}
+
 .circle {
     border: 2px solid #2a2a2a;
     border-radius: 100%;
