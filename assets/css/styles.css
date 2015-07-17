@@ -99,6 +99,25 @@ body {
     width: 100%;
 }
 
+.about-us {
+    height: 75px;
+    background-image: url(../images/footer_lodyas.png);
+    color: #f46034;
+    padding: 1px;
+    padding-left: 30px;
+}
+
+.about-us-content {
+    text-align: left;
+    margin-top: 10px;
+    font-size: 120%;
+    padding-left: 50px;
+}
+
+.pic {
+    height: 2px;
+}
+
 .service-tab {
     height: 75px;
     background-image: url(../images/footer_lodyas.png);
