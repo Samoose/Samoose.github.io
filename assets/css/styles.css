@@ -307,3 +307,7 @@ div div input {
     float: right;
     
 }
+
+.opacity {
+    opacity: .5;
+}
