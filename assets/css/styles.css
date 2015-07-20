@@ -100,6 +100,15 @@ body {
     width: 100%;
 }
 
+.arrow {
+    text-align: center;
+    background-color: #fff;
+}
+
+div a i:hover {
+    color: #f77852;
+}
+
 .about-us {
     height: 75px;
     background-image: url(../images/footer_lodyas.png);
