@@ -105,7 +105,7 @@ body {
     background-image: url(../images/footer_lodyas.png);
     color: #f46034;
     padding: 1px;
-    padding-left: 30px;
+    padding-left: 15px;
 }
 
 .about-us-content {
@@ -116,7 +116,9 @@ body {
 }
 
 .pic {
-    height: 2px;
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
 }
 
 .service-tab {
