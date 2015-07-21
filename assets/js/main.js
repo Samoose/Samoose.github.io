@@ -109,4 +109,12 @@ $(document).ready(function () {
         $(".team-link").removeClass("active");
         $(".home-link").removeClass("active");
     });
+    
+    $(".arrow").click(function () {
+        $(".about-link").addClass("active");
+        $(".home-link").removeClass("active");
+        $(".services-link").removeClass("active");
+        $(".team-link").removeClass("active");
+        $(".contact-link").removeClass("active");
+    });
 });
