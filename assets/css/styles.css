@@ -324,6 +324,11 @@ div div input {
     opacity: .5;
 }
 
+#about-us {
+    height: 30px;
+    background-color: #fff;
+}
+
 #services {
     height: 30px;
 }
